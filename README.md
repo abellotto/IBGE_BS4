@@ -1,4 +1,4 @@
-# Projeto de Aprendizagem - Python 
+# Projeto de Aprendizagem - Python
 
 Esse projeto faz parte de meu aprendizado sobre Python com BeautifulSoup.
 
