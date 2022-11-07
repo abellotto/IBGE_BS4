@@ -5,7 +5,7 @@ Esse projeto faz parte de meu aprendizado sobre Python com BeautifulSoup.
 
 ## Projeto Web Scraping da página de indicadores do IBGE
 
-Projeto foi desenvolvido utilizando as bibliotecas BeautifulSoup e a Requests.
+Projeto foi desenvolvido utilizando as bibliotecas BeautifulSoup e Requests para requisição da página e web scraping, no final utilizado o Pandas para gerar o dataframe e exportar em um csv.
 
 Alguns comandos utilizados:
 
